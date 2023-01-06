@@ -1,0 +1,18 @@
+.accentuated{
+	background-color: #ff9999;
+	font-family: Arial;
+	font-size: 28px;
+}
+
+#first_id{
+	color: blue;
+	font-size: 48px;
+	font-family: Arial;
+}
+
+#second_id{
+	background-color: #99FFCC;
+	font-weight: bold;
+	font-size: 28px;
+	font-family: Arial;
+}
