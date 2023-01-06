@@ -1,8 +1,13 @@
+.yellow, .black{
+	font-family: Helvetica;
+	font-size: 28px;
+}
+
 .yellow{
 	background-color:yellow;
 }
 .black{
-	color:white
+	color:white;
 	background-color: black;
 }
 
