@@ -1,3 +1,8 @@
-.yellow{}
-.black{}
+.yellow{
+	background-color:yellow;
+}
+.black{
+	color:white
+	background-color: black;
+}
 
